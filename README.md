@@ -31,7 +31,11 @@ ISTQB - no. 20284
 ## Bugs Hunting
 * [Bug on Ben&Jerry UK site](https://docs.google.com/document/d/1CFZXlzs44jeJ1wdZFcU2f1KU72ZvRwsF8jEIG9fP3WQ/edit?usp=sharing),
 ## Selenium WebDriver
-*
+* [Ebay search](https://github.com/GoskaW/testing/blob/master/selenium/src/main/java/com/selenium/Ebay.java)
+* [Allegro search](https://github.com/GoskaW/testing/blob/master/selenium/src/main/java/com/selenium/Allegro.java)
 ## Api Testing
+* 
+## jMeter
+*
 
 
