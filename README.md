@@ -28,5 +28,10 @@ ISTQB - no. 20284
 * Sierra, Bates & Gee - Head First Java 3rd edition,
 * R. Shetty - Hands-on Automation Testing with Java for begginers, 
 # My projects
-* 
+## Bugs Hunting
+* [Bug on Ben&Jerry UK site] (https://docs.google.com/document/d/1CFZXlzs44jeJ1wdZFcU2f1KU72ZvRwsF8jEIG9fP3WQ/edit?usp=sharing),
+## Selenium WebDriver
+*
+## Api Testing
+
 
