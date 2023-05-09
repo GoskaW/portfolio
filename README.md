@@ -31,6 +31,7 @@ ISTQB - no. 20284
 # My projects
 ## Bugs Hunting
 * [Bug on Ben&Jerry UK site](https://docs.google.com/document/d/1CFZXlzs44jeJ1wdZFcU2f1KU72ZvRwsF8jEIG9fP3WQ/edit?usp=sharing),
+* [Bug on Karta Krakowska App](https://drive.google.com/file/d/1VmwiOUemJMPy0b0mG4UF6CTnUE1gyG_n/view?usp=sharing) 
 ## Selenium WebDriver
 * [Ebay search](https://github.com/GoskaW/testing/blob/master/selenium/src/main/java/com/selenium/Ebay.java)
 * [Allegro search](https://github.com/GoskaW/testing/blob/master/selenium/src/main/java/com/selenium/Allegro.java)
