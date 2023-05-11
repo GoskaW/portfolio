@@ -17,18 +17,22 @@ My name is Małgorzata Wrona. I have a master degree of psychology in management
 * basic knowledge of using the Selenium WebDriver tool,
 * testing applications communicating via Rest API,
 * basic knowledge in performance testing,
-* basics of Java
+* basics of Java,
+* basic knowledge of: computer network, network security,
+* knowledge of systems: windows / linux,
 # Certifications
 ISTQB - no. 20284
 # Courses
 * Automation Tester - Codemy(Kodilla),
 * Jira - project managment - Rafał Podraza, 
 * Entrance exam - Test Birds.
+* SOC L1 - Try hack me.
 * Portswigger Academy (in progress).
 # Books
 * Sierra, Bates & Gee - Head First Java 3rd edition,
 * R. Shetty - Hands-on Automation Testing with Java for begginers, 
 * Article 19, Mallory Knodel, Ulrike Uhlig - How the Internet Really Works,
+* W. Ciemski - Cybersecurity questions and answer,
 # My projects
 ## Bugs Hunting
 * [Bug on Ben&Jerry UK site](https://docs.google.com/document/d/1CFZXlzs44jeJ1wdZFcU2f1KU72ZvRwsF8jEIG9fP3WQ/edit?usp=sharing),
