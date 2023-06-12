@@ -1,10 +1,10 @@
 # Portfolio
 # About me
-My name is Małgorzata Wrona. I have a master degree of psychology in management. I am a manager with over 10 years of experience. Almost a year ago I started my adventure with software testing. My goal is to develop the acquired skills. In the future I want to be a specialist in the field of cyber security.
+I'm complex problem solver. Currently I'm strengthen my knowledge on Cyber defense, Digital Forensics and Incident Response. You can watch my progress [here](https://tryhackme.com/p/GoskaW).
 # Tools
 * Basics of programing (Java 17),
-* Selenium WebDriver,
-* SoapUI, 
+* Splunk
+* CyberChef, 
 * Postman,
 * SQL REST API,
 * JMeter,
@@ -12,35 +12,21 @@ My name is Małgorzata Wrona. I have a master degree of psychology in management
 * HTML/CSS,
 * MsOffice
 # Tech skills
-* Creating scenarios and test cases,
-* using tools to support and automate tests,
-* basic knowledge of using the Selenium WebDriver tool,
-* testing applications communicating via Rest API,
-* basic knowledge in performance testing,
+* Basic knowledge of TCP/IP and network security, 
+* knowledge of OS: windows/linux
+* basics of Splunk (ability to collect, analyze and correlate the network and machine logs)
 * basics of Java,
-* basic knowledge of: computer network, network security,
-* knowledge of systems: windows / linux,
 # Certifications
 ISTQB - no. 20284
 # Courses
 * Automation Tester - Codemy(Kodilla),
-* Jira - project managment - Rafał Podraza, 
-* Entrance exam - Test Birds.
-* SOC L1 - Try hack me.
-* Portswigger Academy (in progress).
+* SOC L1 - Try hack me [profil](https://tryhackme.com/p/GoskaW)
+* SOC Analyst Krok Pierwszy- Maciej Kofel 
 # Books
 * Sierra, Bates & Gee - Head First Java 3rd edition,
 * R. Shetty - Hands-on Automation Testing with Java for begginers, 
 * Article 19, Mallory Knodel, Ulrike Uhlig - How the Internet Really Works,
 * W. Ciemski - Cybersecurity questions and answer,
-# My projects
-## Bugs Hunting
-* [Bug on Ben&Jerry UK site](https://docs.google.com/document/d/1CFZXlzs44jeJ1wdZFcU2f1KU72ZvRwsF8jEIG9fP3WQ/edit?usp=sharing),
-* [Bug on Karta Krakowska App](https://drive.google.com/file/d/1VmwiOUemJMPy0b0mG4UF6CTnUE1gyG_n/view?usp=sharing) 
-## Selenium WebDriver
-* [Ebay search](https://github.com/GoskaW/testing/blob/master/selenium/src/main/java/com/selenium/Ebay.java)
-* [Allegro search](https://github.com/GoskaW/testing/blob/master/selenium/src/main/java/com/selenium/Allegro.java)
-## jMeter
-* [Response Assertion main page inpost.pl](https://github.com/GoskaW/testing/blob/other/Inpost.pl-main-page.jmx)
+* J. Casad -TCP/IP w 24 godziny 
 
 
