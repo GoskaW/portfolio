@@ -2,19 +2,17 @@
 # About me
 I'm complex problem solver. Currently I'm strengthen my knowledge on Cyber defense, Digital Forensics and Incident Response. You can watch my progress [here](https://tryhackme.com/p/GoskaW).
 # Tools
-* Basics of programing (Java 17),
 * Splunk
 * CyberChef, 
-* Postman,
-* SQL REST API,
-* JMeter,
-* Jira,
+* WireShark,
+* Nmap,
 * HTML/CSS,
 * MsOffice
 # Tech skills
-* Basic knowledge of TCP/IP and network security, 
+* Basic knowledge of TCP/IP,
+* knowledge of attack vectors,
 * knowledge of OS: windows/linux
-* basics of Splunk (ability to collect, analyze and correlate the network and machine logs)
+* basics of Splunk (ability to collect, analyze and correlate the network and machine logs),
 * basics of Java,
 # Certifications
 ISTQB - no. 20284
