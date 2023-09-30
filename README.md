@@ -19,7 +19,8 @@ ISTQB - no. 20284
 # Courses
 * Automation Tester - Codemy(Kodilla),
 * SOC L1 - Try hack me [profil](https://tryhackme.com/p/GoskaW)
-* SOC Analyst Krok Pierwszy- Maciej Kofel 
+* SOC Analyst Krok Pierwszy- Maciej Kofel
+* Narzędzie i techniki OSINT-owe - Sekurak
 # Books
 * Sierra, Bates & Gee - Head First Java 3rd edition,
 * R. Shetty - Hands-on Automation Testing with Java for begginers, 
